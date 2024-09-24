@@ -8,4 +8,4 @@ For using Visual Code you would:
   3. You would then go over to the extensions tab and download any coding languages you will be using. 
 
 Part 2:
-Branch 
+<strong>Branch</strong> 
