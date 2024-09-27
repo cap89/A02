@@ -10,14 +10,14 @@ For using Visual Code you would:
 Part 2:
 <strong>Branch:</strong> sdsadsada
 <strong>Clone:</strong> sdsdsdsdsd
-<strong>Commit:</strong> sdsdsdsddsdsds
+<strong>Commit:</strong> committing finalizes any changes that were made to the file or files on your branch.
 <strong>Fetch:</strong> sdsdsdsdsdsd
 <strong>GIT:</strong> sdsdsdsdsdsdsdds
-<strong>GitHub:</strong> sdsdsdsdsdsdsds
+<strong>GitHub:</strong> a website to work on and collab projects (any languages)
 <strong>Merge:</strong> sddsdsdsds
 <strong>Merge Conflict:</strong> sdsdsdss
-<strong>Push:</strong> sdsdsdsds
-<strong>Pull:</strong> sdsdsdsdsds
-<strong>Remote:</strong> s sdsdsdsdsd
-<strong>Repository:</strong> sdsdsdsdsdsd
+<strong>Push:</strong> updating the repository/branch with the latest code
+<strong>Pull:</strong> getting the latest code that was written to your repository
+<strong>Remote:</strong> 
+<strong>Repository:</strong> a place to store your projects
 
